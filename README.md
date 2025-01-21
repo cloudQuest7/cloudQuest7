@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anjali currently pursuing undergrad in Computer Engineering </b></h1>
 
 <br>
-🔭 I’m currently working on my skills<br>🤝  I’m looking to collaborate on small projects<br>🌱 I’m currently learning Game Development and Web Development<br>💬 Ask me about Game Dev<br>⚡ Fun fact - Focus on you goal whithout anyone noticing✌️.
+🔭 I’m currently working on my skills<br>🤝 A Passionate Self taught Web Developer<br>🌱 Looking to collaborate on open source project<br>💬 Ask me about Game Dev<br>⚡ Fun fact - Focus on you goal whithout anyone noticing✌️.
 
 
 ## 🌐 Socials:

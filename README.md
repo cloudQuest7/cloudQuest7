@@ -31,7 +31,7 @@
 
 
   ![Anjali's Stats](https://github-readme-stats.vercel.app/api?username=cloudQuest7&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-  ![AKI7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudQuest7&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+  ![AKI7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudQuest7&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
   ![AKI7's Git Stats](https://github-readme-stats.vercel.app/api?username=cloudQuest7&show_icons=true&bg_color=00000000)
   
 </div>

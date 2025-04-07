@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anjali currently pursuing undergrad in Computer Engineering </b></h1>   
+<h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anjali currently pursuing undergrad in Computer Engineering </b></h1>        
 
 <br>
 🔭 I’m currently working on my skills<br>🤝 A Passionate Self taught Web & Game Developer<br>🌱 Looking to collaborate on open source project<br>💬 Ask me about Game Dev<br>⚡ Feel free to talk✌️..

@@ -4,7 +4,7 @@
 <br>    
 🔭 I’m currently working on my skills<br>🤝 A Passionate Self taught Web & Game Developer<br>🌱 Looking to collaborate on Game Jams and Hackathons<br>💬 Ask me about Game Dev<br>⚡ Feel free to talk✌️..
  
-     
+       
 ## 🌐 Socials:    
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Y9uUv6JF) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anjali-jayakumar-145902320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/AKI7_onCloud9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
  

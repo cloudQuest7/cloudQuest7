@@ -6,6 +6,20 @@
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Web%20Developer;Junior%20Game%20Developer;Pixel%20Artist;Prototyper&font=Fira%20Code&center=true&width=550&height=50&color=1e90ff&vCenter=true&pause=1000&size=24" />
 </p> 
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="http://www.linkedin.com/in/anjali-jayakumar-145902320"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/anjali_j79"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/Y9uUv6JF" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/oncloud_9"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
        
 <br>    
 🔭 I’m currently working on my skills<br>🤝 A Passionate Self taught Web & Game Developer<br>🌱 Looking to collaborate on Game Jams and Hackathons<br>💬 Ask me about Game Dev<br>⚡ Feel free to talk✌️..

@@ -1,14 +1,16 @@
 # 💫 About Me:
 <p align="center">
   <a href="https://github.com/cloudQuest7">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Anjali Jayakumar" /></a>
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Anjali Jayakumar" />
+  </a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/cloudQuest7/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>    
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Anjali%20Jayakumar;Full%20Stack%20Web%20Developer;Junior%20Game%20Developer;Pixel%20Artist;Prototyper;Exploring%20the%20Galactic%20Blue%20Universe!&font=Fira%20Code&center=true&width=550&height=50&color=1e90ff&vCenter=true&pause=1000&size=24" />
+  </a>
+</p> 
        
 <br>    
 🔭 I’m currently working on my skills<br>🤝 A Passionate Self taught Web & Game Developer<br>🌱 Looking to collaborate on Game Jams and Hackathons<br>💬 Ask me about Game Dev<br>⚡ Feel free to talk✌️..

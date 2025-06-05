@@ -1,7 +1,6 @@
 # 💫 About Me:
 <p align="center">
-  <a href="https://github.com/cloudQuest7">Z
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Anjali Jayakumar" /></a>
+  <a href="https://github.com/cloudQuest7">Anjali Jayakumar
 </p>
 
 <p align="center">

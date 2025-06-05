@@ -29,15 +29,19 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-<div align="center">
 
-
-  ![Anjali's Stats](https://github-readme-stats.vercel.app/api?username=cloudQuest7&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-  ![AKI7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudQuest7&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-
-  
-</div>
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/cloudQuest7#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=cloudQuest7&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/cloudQuest7#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=cloudQuest7&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/cloudQuest7#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudQuest7&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/cloudQuest7#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudQuest7&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/cloudQuest7#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudQuest7&theme=default"/></a><a href="https://github.com/cloudQuest7#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudQuest7&theme=tokyonight"/></a></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/cloudQuest7#gh-light-mode-only"><img src="https://raw.githubusercontent.com/cloudQuest7/cloudQuest7/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/cloudQuest7#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/cloudQuest7/cloudQuest7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

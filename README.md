@@ -20,7 +20,30 @@
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
-       
+
+<p align="center">
+    <!-- Status badge (customize as needed) -->
+    <a href="https://github.com/cloudQuest7/cloudQuest7">
+        <img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="Status Badge">
+    </a>
+    <!-- Contributors badge -->
+    <a href="https://github.com/cloudQuest7/cloudQuest7/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/cloudQuest7/cloudQuest7?color=blue" alt="Contributors">
+    </a>
+    <!-- Stars badge -->
+    <a href="https://github.com/cloudQuest7/cloudQuest7">
+        <img src="https://img.shields.io/github/stars/cloudQuest7/cloudQuest7?style=social" alt="Stars">
+    </a>
+    <!-- Forks badge -->
+    <a href="https://github.com/cloudQuest7/cloudQuest7/network/members">
+        <img src="https://img.shields.io/github/forks/cloudQuest7/cloudQuest7.svg?color=blue&logo=github" alt="Forks">
+    </a>
+    <!-- Visitors badge -->
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=cloudQuest7.cloudQuest7" alt="visitors"/>
+    <!-- Profile views badge (optional) -->
+    <img src="https://komarev.com/ghpvc/?username=cloudQuest7&color=blue" alt="Profile Views"/>
+</p>
+
 <br>    
 🔭 I’m currently working on my skills<br>🤝 A Passionate Self taught Web & Game Developer<br>🌱 Looking to collaborate on Game Jams and Hackathons<br>💬 Ask me about Game Dev<br>⚡ Feel free to talk✌️..
      

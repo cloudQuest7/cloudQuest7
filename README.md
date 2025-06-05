@@ -1,16 +1,20 @@
 # 💫 About Me:
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 <p align="center">
-  <a href="https://github.com/cloudQuest7">Anjali Jayakumar
+  <a href="https://github.com/cloudQuest7" style="text-decoration: none;">
+    <span style="font-size: 3em; font-weight: bold; color: #D2042D; font-family: 'Fira Code', monospace; letter-spacing: 2px;">
+      Anjali Jayakumar
+    </span>
+  </a>
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Web%20Developer;Junior%20Game%20Developer;Pixel%20Artist;Prototyper&font=Fira%20Code&center=true&width=550&height=50&color=1e90ff&vCenter=true&pause=1000&size=24" />
-</p> 
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Web%20Developer;Junior%20Game%20Developer;Pixel%20Artist;Prototyper&font=Fira%20Code&center=true&width=600&height=60&color=D2042D&vCenter=true&pause=1000&size=28" alt="Typing SVG"/>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20With-Passion-D2042D?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Creativity-100%25-D2042D?style=for-the-badge&logo=star" />
+</p>
 <!-- Social icons section -->
 <p align="center">
   <a href="http://www.linkedin.com/in/anjali-jayakumar-145902320"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>

@@ -69,8 +69,7 @@ i build scalable web applications and interactive experiences with a focus on cl
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-    
-    <div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg">
